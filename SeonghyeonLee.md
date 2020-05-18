@@ -25,7 +25,7 @@
   * A. I don't believe aliens because I only believe what I see.
   
 * Q9.**What is your dream job?**
-  * A. My dream job is game developer.
+  * A. Game Tester.
   
 * Q10.**Do you like your name? Why?/Why not?**
   * A. Yes, I like my name because my parents made it up.
