@@ -53,3 +53,5 @@
   
 * Q18.**Are you a morning person or an evening person?**
   * A. I'm different every day. Sometimes I am a morning person or an evening person.
+  
+  ![Image of the teammate](https://avatars2.githubusercontent.com/u/65002076?s=460&u=d087bf784e40fc793e598e4d166f55a7c28a0026&v=4)
